@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cafe
+  annotations:
+    github.com/project-slug: asoaresjr/pyfase/examples/cafe
+spec:
+  partOf:
+    - component:default/pyfase
+  type: other
+  lifecycle: production
+  owner: guests
