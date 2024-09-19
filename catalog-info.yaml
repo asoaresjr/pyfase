@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pyfase
+  annotations:
+    github.com/project-slug: asoaresjr/pyfase
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
