@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: asoaresjr/pyfase/examples/cafe
 spec:
   partOf:
-    - component:default/pyfase
+    - component: pyfase
   type: other
   lifecycle: production
   owner: guests
