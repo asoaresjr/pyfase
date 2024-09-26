@@ -7,4 +7,4 @@ metadata:
 spec:
   type: other
   lifecycle: production
-  owner: antonio
+  owner: platform
