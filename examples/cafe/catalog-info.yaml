@@ -8,4 +8,4 @@ spec:
   subcomponentOf: pyfase
   type: other
   lifecycle: production
-  owner: guests
+  owner: platform
